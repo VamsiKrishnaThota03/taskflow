@@ -13,8 +13,8 @@
   "license": "MIT",
   "description": "Next.js frontend for the task management system",
   "dependencies": {
-    "axios": "^1.21.0",
-    "bootstrap": "^5.3.8",
+    "axios": "^1.21.1",
+    "bootstrap": "^5.3.9",
     "next": "^15.5.29",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
